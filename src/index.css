@@ -44,7 +44,7 @@ nav a:active {
 }
 
 #home,
-#about {
+.about {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -58,10 +58,10 @@ nav a:active {
   background-color: cornsilk;
 }
 
-#about img {
+.about img {
   max-height: 50%;
 }
 
-#about a {
+.about a {
   display: block;
 }
